@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I’m Deepak Bhatt
 
-<!--
-**deepakbhatt7060/deepakbhatt7060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Full Stack Developer with focus on React.js, Next.js, and Node.js
+- Freelancer and Open Source Contributor
+- Passionate about building performant, scalable apps using Docker and Kubernetes.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+React · Next.js · Node.js · TypeScript · JavaScript · Linux · MySql · Nginx · Docker · Kubernetes · MySQL · Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakbhatt&show_icons=true&theme=radical)
+
+## 🔗 Let's Connect
+[Portfolio] (https://my-portfolio-seven-blue-53.vercel.app/)  • [LinkedIn] (https://www.linkedin.com/in/deepak-bhatt-463a05156/) • [Email](deepakbhatt7060@gmail.com)
+

@@ -9,7 +9,7 @@
 React · Next.js · Node.js · TypeScript · JavaScript · Linux · MySql · Nginx · Docker · Kubernetes · MySQL · Tailwind CSS
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakbhatt&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakbhatt7060&show_icons=true&theme=radical)
 
 ## 🔗 Let's Connect
 [Portfolio] (https://my-portfolio-seven-blue-53.vercel.app/)  • [LinkedIn] (https://www.linkedin.com/in/deepak-bhatt-463a05156/) • [Email](deepakbhatt7060@gmail.com)
